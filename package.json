@@ -6,6 +6,8 @@
   "bin": {
     "is-website-vulnerable": "./bin/is-website-vulnerable.js"
   },
+
+  
   "engines": {
     "node": ">=10.0.0"
   },
